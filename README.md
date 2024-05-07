@@ -1,4 +1,4 @@
-<H3>Name: RAHUL B E</H3>
+<H3>Name: RAHUL B </H3>
 <H3>Register No: 212222220032</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
