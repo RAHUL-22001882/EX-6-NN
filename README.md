@@ -1,5 +1,5 @@
-<H3>Name: Naveen Kumar E</H3>
-<H3>Register No: 212222220029</H3>
+<H3>Name: RAHUL B E</H3>
+<H3>Register No: 212222220032</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
